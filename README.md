@@ -31,6 +31,7 @@ Model selection and training
 Model evaluation and optimization
 Technologies and Tools: Python, scikit-learn, TensorFlow/Keras, pandas, matplotlib, and seaborn.
 
-Conclusion
+Conclusion:
+
 By training machine learning models on this dataset, it is possible to develop a predictive model that can significantly assist in the early detection and diagnosis of breast cancer, providing a valuable tool for medical professionals.
 
